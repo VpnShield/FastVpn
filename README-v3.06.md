@@ -1,8 +1,8 @@
 {
-"Title": "تست",
-"Description" هویا ",
-"Link": "https://t.me/+mOXv6Dbawzw4NGVk",
-"Color": "#FF0000",
-"Button": "عضویت",
-"Show": "on"
+"Title": "@Modify_BackUp",
+"Description": "Bemolap",
+"Link": "https://t.me/Modify_BackUp",
+"Color": "#40d146",
+"Button": "JOIN",
+"Show": "off"
 }
