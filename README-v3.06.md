@@ -1,8 +1,8 @@
 {
-"Title": "@Modify_BackUp",
-"Description": "Bemolap",
-"Link": "https://t.me/Modify_BackUp",
-"Color": "#40d146",
-"Button": "JOIN",
-"Show": "off"
+"Title": "Vpn Shield | Free ⚡️",
+"Description": "لطفا برای حمایت و دریافت فیلترشکن‌های متصل بیشتر حتما در کانال تلگرام ما عضو شوید ♥️",
+"Link": "https://t.me/+Ct0fjkrAeWwyZTNk",
+"Color": "#00BCD4",
+"Button": "عضویت",
+"Show": "on"
 }
