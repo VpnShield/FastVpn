@@ -4,5 +4,5 @@
 "Link": "https://t.me/+bw9JyC5g2DZiZjU0",
 "Color": "#6495ED",
 "Button": "عضویت در کانال VIP",
-"Show": "on"
+"Show": "off"
 }
